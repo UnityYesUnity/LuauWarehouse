@@ -1,7 +1,7 @@
 script.Sound:Play()
 
 
-							--Only braincells may past this point--
+							--========|| Boring stuff ||========--
 
 function onClicked()
 	
